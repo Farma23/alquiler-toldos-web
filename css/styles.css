@@ -1,0 +1,55 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a.active {
+  color: #4CAF50;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.beneficios li {
+  margin-bottom: 10px;
+  list-style-type: none;
+  padding-left: 25px;
+  position: relative;
+}
+
+.beneficios li:before {
+  content: "✓";
+  color: #4CAF50;
+  position: absolute;
+  left: 0;
+}
+
+.cta {
+  background: #f4f4f4;
+  padding: 15px;
+  border-left: 4px solid #4CAF50;
+  margin-top: 20px;
+}
