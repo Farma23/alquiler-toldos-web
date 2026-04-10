@@ -19,4 +19,4 @@ Este proyecto consiste en un sistema web desarrollado para la gestión de alquil
 Facilitar la interacción entre clientes y el servicio de alquiler mediante una plataforma web funcional y responsiva.
 
 ## 👨‍💻 Autor
-Adrián Vargas
+Adrián Arias Vargas
